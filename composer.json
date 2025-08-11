@@ -1,8 +1,5 @@
 {
   "require": {
-    "php": "^8.0"
-  },
-  "scripts": {
-    "start": "php -S 0.0.0.0:$PORT"
+    "php": "^8.3"
   }
 }
