@@ -1,5 +1,9 @@
 [variables]
+NIXPACKS_PHP_VERSION = "8.3"
 PHP_VERSION = "8.3"
 
+[phases.build]
+cmds = ["echo Building with PHP 8.3"]
+
 [start]
-cmd = "php -S 0.0.0.0:\$PORT"
+cmd = "php -S 0.0.0.0:$PORT index.php"
