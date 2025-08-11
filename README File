@@ -1,0 +1,23 @@
+echo "# MediConnect Healthcare Appointment Booking System
+
+Built for SR2 Web Developer Position - Healthcare | Tech for Good
+
+## Technologies Used
+- Core PHP 8.4 with Object-Oriented Programming  
+- Vanilla JavaScript
+- SQL Database (SQLite)
+- Responsive Healthcare UI
+
+## Features
+- Online appointment booking
+- Real-time form validation
+- Professional healthcare design
+- Mobile responsive
+
+## Live Demo
+Visit: [Add live URL here]
+
+## Contact
+Built by [Your Name] for SR2 Web Developer Position
+Location: Greater Bristol Area
+Available: Immediate onsite start" > README.md
